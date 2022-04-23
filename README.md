@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
 
 - Project 1 WCS Trombinoscope & project 2 : <br><br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=highcontrast" /> <a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
+ <a href='https://github.com/MarysaR/Trombinoscope'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=highcontrast" /></a> <a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
  
 
 
