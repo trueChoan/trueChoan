@@ -3,6 +3,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truechoan&theme=highcontrast&layout=compac" />
 
 
+# WIP
+
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.<br> 
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
 
