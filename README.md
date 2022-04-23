@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
+<span align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
+ </span>
 
 
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.
