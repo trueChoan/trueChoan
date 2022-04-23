@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 --><br>
 ### VScode Stats 
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@trueChoan&theme=highcontrast" />
+ [![wakatime](https://wakatime.com/badge/user/d46171e5-8479-4b53-baae-091f2a7e6b42/project/db208226-83ac-4f86-bfef-99ddac9fa3ca.svg)](https://wakatime.com/badge/user/d46171e5-8479-4b53-baae-091f2a7e6b42/project/db208226-83ac-4f86-bfef-99ddac9fa3ca)
