@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.<br> 
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
 
-- Project 1 WCS Trombinoscope & project 2 : <br>
+- Project 1 WCS Trombinoscope & project 2 : <br><br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=highcontrast" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> 
  
 
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><br>
 ### VScode Stats 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=truechoan&theme=highcontrast)
