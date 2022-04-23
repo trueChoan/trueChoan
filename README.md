@@ -2,9 +2,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truechoan&theme=highcontrast&layout=compac" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truechoan&theme=highcontrast&layout=compact) <br>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=truechoan&theme=highcontrast)
 
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.<br> 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast)
@@ -29,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=truechoan&theme=highcontrast)
