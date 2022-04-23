@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <span align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
- </span>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truechoan&theme=highcontrast&layout=compact) <br>
+ </span><span align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truechoan&theme=highcontrast&layout=compact) </span> <br>
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=truechoan&theme=highcontrast)
 
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.<br> 
