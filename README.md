@@ -5,8 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truechoan&theme=highcontrast&layout=compact) <br>
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=truechoan&theme=highcontrast)
 
-- 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.
-<br> 
+- 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.<br> 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast)
 
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
