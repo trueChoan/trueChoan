@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
 <span align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
  </span>
 
