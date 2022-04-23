@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><br>
 ### VScode Stats 
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=trueChoan&theme=highcontrast" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@trueChoan&theme=highcontrast" />
