@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
 
 - Project 1 WCS Trombinoscope :
-[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope)]
+[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope)
 
 
 <!--
