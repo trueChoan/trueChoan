@@ -2,7 +2,8 @@
 
 <span align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trueChoan&show_icons=true&hide=issues&theme=highcontrast)
  </span>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trueChoan&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truehoan&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truechoan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
