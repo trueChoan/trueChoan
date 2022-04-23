@@ -8,9 +8,8 @@
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
 
-- Project 1 WCS Trombinoscope :
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+- Project 1 WCS Trombinoscope : <br>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=true&theme=highcontrast)
 
 
 <!--
