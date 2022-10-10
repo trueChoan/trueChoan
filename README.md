@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johan Ala</h1>
 
-**`I am a creator : developer/photographer/filmmaker from France`**
+**`I am a 36yo creator : developer/photographer/filmmaker from France`**
 
 - 🔭 I’m currently working on **an elearning platform in my internship with High Society.**
 
