@@ -40,6 +40,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truechoan&theme=highcontrast&show_icons=true&locale=en" alt="truechoan" /></p>
   
+  #
+  
   <details>
   <summary>:zap: VScode Weekly Stats and Coding streak</summary>
 
