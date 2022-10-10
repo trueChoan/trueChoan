@@ -8,8 +8,12 @@
 - 🔭 I’m currently working on my 2nd project at the Wild Code School, working on a 🎶 blindtest.<br> 
 - 🌱 I’m currently learning php, twig, MVC, javascript, MySQL soon Symfony.
 
-- Project 1 WCS Trombinoscope & project 2 : <br><br>
+# I Worked On
+- Project 3 WCS Montbéliard Jeux d'Histoire : https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre
+- Project 2 WCS Blindtest :
+- Project 1 WCS Trombinoscope : <br><br>
  <a href='https://github.com/MarysaR/Trombinoscope'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marysar&repo=Trombinoscope&show_owner=false&theme=highcontrast" /></a> <a href='https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-blind-test'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-blind-test&show_owner=true&theme=highcontrast" /> </a>
+ <a href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=true&theme=highcontrast" /> </a>
  
 
 
