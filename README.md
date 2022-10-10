@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript, nodeJS, React Native, GraphQL** at Wild Code School from september 22 to september 23.
 
-- 👯 I’m proud to show you my final project with Wild Code School [Montbeliard BoardGame](https://montbeliard-cite-libre.remote-fr-1.wilders.dev/)
+- 👯 I’m proud to show you my final project after 5 months learning PHP/Symfony at Wild Code School [Montbeliard BoardGame](https://montbeliard-cite-libre.remote-fr-1.wilders.dev/)
 
 #
 
